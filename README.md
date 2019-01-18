@@ -1,4 +1,4 @@
-# Create a Tableaue Story
+# Create a Tableau Story
 Udacity Nanodegree Data Analysis Project - Term 2  
 
 # Project Overview
@@ -11,7 +11,7 @@ Before working on the project, you will need to have either Tableau Public or Ta
 First, you will choose a data set from the Data Set Options document or find a data set to explore and visualize. 
 
 # Step Two - Get Organized
-Eventually you’ll want to submit your project and share it. To do so, you need to create a zip folder that includes the following:
+Eventually youâ€™ll want to submit your project and share it. To do so, you need to create a zip folder that includes the following:
 
 * Write-up: PDF or Markdown file that includes links to your Tableau Public workbooks, published online, and a write-up with four sections.
   * Summary: in no more than 4 sentences, briefly introduce your data visualization and add any context that can help readers understand it
@@ -32,7 +32,7 @@ First, sketch ideas for your visualization. Once you settle on a sketch, explain
 Share your visualization with at least one other person and document their feedback. There are many ways to get feedback, and more feedback is generally better! 
 
 # Step Six - Document Feedback and Improve the Visualization
-For each person that gives you feedback, add the person’s feedback to your write-up file in the Feedback section. As you improve and iterate on your visualization, update the visualization AND describe any changes in the Design section of the write-up.
+For each person that gives you feedback, add the personâ€™s feedback to your write-up file in the Feedback section. As you improve and iterate on your visualization, update the visualization AND describe any changes in the Design section of the write-up.
 
 You should save multiple versions of your data visualization after you make changes to it. Remember to save related files with similar numbers.
 
