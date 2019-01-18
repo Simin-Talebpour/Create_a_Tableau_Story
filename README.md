@@ -37,4 +37,4 @@ For each person that gives you feedback, add the person’s feedback to your wri
 You should save multiple versions of your data visualization after you make changes to it. Remember to save related files with similar numbers.
 
 When should you save your files? You should save your files whenever you have a working version of your data visualization. If you get feedback and make changes, then create a new file and save the file as another version.
-
+Your goal is to build evidence that you have shared your visualization, received feedback, and responded to that feedback. You need to submit an initial version of your data visualization and the final version with the corresponding write-up.
